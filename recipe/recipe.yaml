@@ -1,5 +1,5 @@
 context:
-  version: "2.5.13"
+  version: "2.5.14"
 
 package:
   name: opendataloader-pdf
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/o/opendataloader-pdf/opendataloader_pdf-${{ version }}.tar.gz
-  sha256: 86ea33c936e7ee5577c0e66582da3c2ae59eae83de44d9758e25e4fbc6f6cf02
+  sha256: d0b23cc516df34b727a1973c6d32f5f53d69e84ec334f77ea8848248cf11889c
 
 build:
   noarch: python
